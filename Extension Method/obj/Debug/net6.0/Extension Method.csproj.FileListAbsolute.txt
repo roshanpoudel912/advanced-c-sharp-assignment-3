@@ -1,0 +1,15 @@
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\bin\Debug\net6.0\Extension Method.exe
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\bin\Debug\net6.0\Extension Method.deps.json
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\bin\Debug\net6.0\Extension Method.runtimeconfig.json
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\bin\Debug\net6.0\Extension Method.dll
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\bin\Debug\net6.0\Extension Method.pdb
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.csproj.AssemblyReference.cache
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.AssemblyInfoInputs.cache
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.AssemblyInfo.cs
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.csproj.CoreCompileInputs.cache
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.dll
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\refint\Extension Method.dll
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.pdb
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\Extension Method.genruntimeconfig.cache
+D:\MacEwan\Winter Term\Advanced C#\Extension Method\Extension Method\obj\Debug\net6.0\ref\Extension Method.dll
